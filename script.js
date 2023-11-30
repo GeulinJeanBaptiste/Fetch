@@ -1,0 +1,1 @@
+fetch("./data/menuEntries.json")
