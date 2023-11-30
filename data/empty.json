@@ -1,0 +1,1635 @@
+{
+    "created": "2023-11-30T13:46:35.891Z",
+    "count": 227,
+    "offset": 0,
+    "releases": [
+        {
+            "id": "c227695d-5425-4baf-ad02-30ec9662b4c0",
+            "score": 100,
+            "count": 1,
+            "title": "Sardou",
+            "artist-credit": [
+                {
+                    "name": "Michel Sardou",
+                    "artist": {
+                        "id": "dee1a19a-1145-4a47-b009-4bef3c1f445d",
+                        "name": "Michel Sardou",
+                        "sort-name": "Sardou, Michel"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "1bd498ee-c81f-4262-8286-c6262b163781",
+                "title": "Sardou"
+            },
+            "track-count": 8,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 8
+                }
+            ]
+        },
+        {
+            "id": "dd13ab41-ebda-467c-9fbe-ca14f6c58810",
+            "score": 100,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+            "count": 1,
+            "title": "Sardou",
+            "status": "Official",
+            "packaging": "Jewel Case",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Michel Sardou",
+                    "artist": {
+                        "id": "dee1a19a-1145-4a47-b009-4bef3c1f445d",
+                        "name": "Michel Sardou",
+                        "sort-name": "Sardou, Michel"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "555bb7df-19e2-429b-8282-e2caa28f87f8",
+                "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Sardou",
+                "primary-type": "Album"
+            },
+            "date": "1982",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "1982",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "3296637105103",
+            "track-count": 8,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 8
+                }
+            ]
+        },
+        {
+            "id": "c15235b6-f69f-431c-88f3-dc174dac4651",
+            "score": 100,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Sardou",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Michel Sardou",
+                    "artist": {
+                        "id": "dee1a19a-1145-4a47-b009-4bef3c1f445d",
+                        "name": "Michel Sardou",
+                        "sort-name": "Sardou, Michel"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "ece06d56-dd53-3853-94f1-58290011f9a0",
+                "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Sardou",
+                "primary-type": "Album"
+            },
+            "date": "",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "3296637105073",
+            "asin": "B000007VJ4",
+            "label-info": [
+                {
+                    "catalog-number": "710 507",
+                    "label": {
+                        "id": "f6b211c2-75ec-4a9e-8395-57c73c83e105",
+                        "name": "Trema"
+                    }
+                }
+            ],
+            "track-count": 10,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 10
+                }
+            ]
+        },
+        {
+            "id": "35137db9-b641-4d29-8092-2491607edabc",
+            "score": 100,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Sardou",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Michel Sardou",
+                    "artist": {
+                        "id": "dee1a19a-1145-4a47-b009-4bef3c1f445d",
+                        "name": "Michel Sardou",
+                        "sort-name": "Sardou, Michel"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "ece06d56-dd53-3853-94f1-58290011f9a0",
+                "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Sardou",
+                "primary-type": "Album"
+            },
+            "date": "1979",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "1979",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "",
+            "label-info": [
+                {
+                    "catalog-number": "310 075",
+                    "label": {
+                        "id": "f6b211c2-75ec-4a9e-8395-57c73c83e105",
+                        "name": "Trema"
+                    }
+                }
+            ],
+            "track-count": 10,
+            "media": [
+                {
+                    "format": "12\" Vinyl",
+                    "disc-count": 0,
+                    "track-count": 10
+                }
+            ]
+        },
+        {
+            "id": "d708c368-2e8b-4a96-91f0-9bcb0bbea9b1",
+            "score": 100,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+            "count": 1,
+            "title": "Sardou",
+            "status": "Official",
+            "disambiguation": "Master Serie, white on red underscore",
+            "packaging": "Jewel Case",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Michel Sardou",
+                    "artist": {
+                        "id": "dee1a19a-1145-4a47-b009-4bef3c1f445d",
+                        "name": "Michel Sardou",
+                        "sort-name": "Sardou, Michel"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "f84edae6-92be-4692-9f40-48567b3896f0",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Michel Sardou, Vol. 1",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "2005",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2005",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "602498271803",
+            "label-info": [
+                {
+                    "catalog-number": "982 718-0",
+                    "label": {
+                        "id": "e143a23a-c426-42b6-a138-aae6308394cf",
+                        "name": "Universal Licensing Music"
+                    }
+                }
+            ],
+            "track-count": 16,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 16
+                }
+            ]
+        },
+        {
+            "id": "a7d2d7ce-68f6-48c2-b1cc-0209d60489b0",
+            "score": 100,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+            "count": 1,
+            "title": "Sardou",
+            "status": "Official",
+            "disambiguation": "Master Serie, white on red underscore",
+            "packaging": "Jewel Case",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Michel Sardou",
+                    "artist": {
+                        "id": "dee1a19a-1145-4a47-b009-4bef3c1f445d",
+                        "name": "Michel Sardou",
+                        "sort-name": "Sardou, Michel"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "e6f4986b-6252-46ce-87f7-ed735c920c7c",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Michel Sardou, Vol. 2",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "2005",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2005",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "602498271797",
+            "label-info": [
+                {
+                    "catalog-number": "982 717-9",
+                    "label": {
+                        "id": "e143a23a-c426-42b6-a138-aae6308394cf",
+                        "name": "Universal Licensing Music"
+                    }
+                }
+            ],
+            "track-count": 16,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 16
+                }
+            ]
+        },
+        {
+            "id": "023e8463-c18a-49bd-8218-893d61fded7c",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Sardou Michel",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Michel Sardou",
+                    "artist": {
+                        "id": "dee1a19a-1145-4a47-b009-4bef3c1f445d",
+                        "name": "Michel Sardou",
+                        "sort-name": "Sardou, Michel"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "4849addb-dff2-4619-8c5b-cdafb8b1380e",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Sardou Michel",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "2004",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2004",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "",
+            "track-count": 12,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 12
+                }
+            ]
+        },
+        {
+            "id": "11ffabdc-52ed-4036-8fa8-88cc69ff350a",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+            "count": 1,
+            "title": "Sardou 13",
+            "status": "Official",
+            "packaging": "Jewel Case",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Michel Sardou",
+                    "artist": {
+                        "id": "dee1a19a-1145-4a47-b009-4bef3c1f445d",
+                        "name": "Michel Sardou",
+                        "sort-name": "Sardou, Michel"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "5e87b589-d323-459b-85bc-a6ad06eb0f16",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Sardou 13",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "1993",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "1993",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "3296637105134",
+            "asin": "B000007VIN",
+            "label-info": [
+                {
+                    "catalog-number": "710513 CB701",
+                    "label": {
+                        "id": "f6b211c2-75ec-4a9e-8395-57c73c83e105",
+                        "name": "Trema"
+                    }
+                }
+            ],
+            "track-count": 9,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 9
+                }
+            ]
+        },
+        {
+            "id": "143ea3f3-d7ff-49da-84bc-a9b4a46cabc1",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+            "count": 1,
+            "title": "Michel Sardou",
+            "status": "Official",
+            "packaging": "Jewel Case",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Michel Sardou",
+                    "artist": {
+                        "id": "dee1a19a-1145-4a47-b009-4bef3c1f445d",
+                        "name": "Michel Sardou",
+                        "sort-name": "Sardou, Michel"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "1e03004d-3164-4176-9ac8-daa2ab1b9309",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Michel Sardou",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "2005",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2005",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "602498314517",
+            "label-info": [
+                {
+                    "label": {
+                        "id": "f6b211c2-75ec-4a9e-8395-57c73c83e105",
+                        "name": "Trema"
+                    }
+                }
+            ],
+            "track-count": 20,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 20
+                }
+            ]
+        },
+        {
+            "id": "af4260e2-7391-45b0-a086-5315bf8511be",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Michel Sardou",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Michel Sardou",
+                    "artist": {
+                        "id": "dee1a19a-1145-4a47-b009-4bef3c1f445d",
+                        "name": "Michel Sardou",
+                        "sort-name": "Sardou, Michel"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "be5af69a-6102-3d20-868a-5831190c8cb1",
+                "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Michel Sardou",
+                "primary-type": "Album"
+            },
+            "date": "1976",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "1976",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "",
+            "label-info": [
+                {
+                    "catalog-number": "310 019",
+                    "label": {
+                        "id": "f6b211c2-75ec-4a9e-8395-57c73c83e105",
+                        "name": "Trema"
+                    }
+                }
+            ],
+            "track-count": 11,
+            "media": [
+                {
+                    "format": "12\" Vinyl",
+                    "disc-count": 0,
+                    "track-count": 11
+                }
+            ]
+        },
+        {
+            "id": "995672e0-e485-410e-9d85-4abc9f38651c",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+            "count": 1,
+            "title": "Michel Sardou",
+            "status": "Official",
+            "disambiguation": "Les Talents du siècle",
+            "packaging": "Jewel Case",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Michel Sardou",
+                    "artist": {
+                        "id": "dee1a19a-1145-4a47-b009-4bef3c1f445d",
+                        "name": "Michel Sardou",
+                        "sort-name": "Sardou, Michel"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "321efb4a-dd38-405b-9d40-474926b73481",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Michel Sardou",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "2004",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2004",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "602498197981",
+            "asin": "B0002ZYDPQ",
+            "label-info": [
+                {
+                    "catalog-number": "981 979-8",
+                    "label": {
+                        "id": "e143a23a-c426-42b6-a138-aae6308394cf",
+                        "name": "Universal Licensing Music"
+                    }
+                }
+            ],
+            "track-count": 16,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 16
+                }
+            ]
+        },
+        {
+            "id": "c498c72d-1322-4897-8e80-f22f8c58df6b",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Michel Sardou",
+            "status": "Official",
+            "disambiguation": "Master Serie, red/black",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Michel Sardou",
+                    "artist": {
+                        "id": "dee1a19a-1145-4a47-b009-4bef3c1f445d",
+                        "name": "Michel Sardou",
+                        "sort-name": "Sardou, Michel"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "e197639d-5a70-48c2-9179-56063c6cf673",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Michel Sardou",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "2009",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2009",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "600753184059",
+            "asin": "B0027IAX8W",
+            "label-info": [
+                {
+                    "catalog-number": "531 840-5",
+                    "label": {
+                        "id": "0f4f12c8-3a50-43e3-8f27-dfd10fb2f27e",
+                        "name": "AZ"
+                    }
+                }
+            ],
+            "track-count": 17,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 17
+                }
+            ]
+        },
+        {
+            "id": "6b10633f-9b82-433a-91a4-f6e5ba78ed45",
+            "score": 75,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+            "count": 1,
+            "title": "SARDOU et nous…",
+            "status": "Official",
+            "packaging": "Jewel Case",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Kids United",
+                    "artist": {
+                        "id": "0bd80b49-e873-41a6-ba6a-f634c868a60d",
+                        "name": "Kids United",
+                        "sort-name": "Kids United",
+                        "disambiguation": "French group for UNICEF"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "9c33b792-e08c-4b29-91fd-334bb11a539c",
+                "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "SARDOU et nous…",
+                "primary-type": "Album"
+            },
+            "date": "2017-10-13",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2017-10-13",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "0190295762223",
+            "label-info": [
+                {
+                    "catalog-number": "0190295762223",
+                    "label": {
+                        "id": "5c276632-ca63-4250-bf59-aedea3a77092",
+                        "name": "TF1 Musique"
+                    }
+                },
+                {
+                    "catalog-number": "0190295762223",
+                    "label": {
+                        "id": "2ea59410-72c9-47dc-84f4-4d227627c9a8",
+                        "name": "M6 Music Label"
+                    }
+                },
+                {
+                    "catalog-number": "0190295762223",
+                    "label": {
+                        "id": "7eb0d88a-f38e-4808-ad81-a820893f8f45",
+                        "name": "Play Two"
+                    }
+                }
+            ],
+            "track-count": 12,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 12
+                }
+            ]
+        },
+        {
+            "id": "c5b55b47-8dce-4c2e-8667-c9ec838ee43f",
+            "score": 75,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+            "count": 1,
+            "title": "SARDOU et nous…",
+            "status": "Official",
+            "packaging": "None",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Kids United",
+                    "artist": {
+                        "id": "0bd80b49-e873-41a6-ba6a-f634c868a60d",
+                        "name": "Kids United",
+                        "sort-name": "Kids United",
+                        "disambiguation": "French group for UNICEF"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "9c33b792-e08c-4b29-91fd-334bb11a539c",
+                "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "SARDOU et nous…",
+                "primary-type": "Album"
+            },
+            "date": "2017-10-13",
+            "country": "BE",
+            "release-events": [
+                {
+                    "date": "2017-10-13",
+                    "area": {
+                        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+                        "name": "Belgium",
+                        "sort-name": "Belgium",
+                        "iso-3166-1-codes": [
+                            "BE"
+                        ]
+                    }
+                },
+                {
+                    "date": "2017-10-13",
+                    "area": {
+                        "id": "563d21b7-4a8e-35e2-83a7-7804baefbfa7",
+                        "name": "Luxembourg",
+                        "sort-name": "Luxembourg",
+                        "iso-3166-1-codes": [
+                            "LU"
+                        ]
+                    }
+                },
+                {
+                    "date": "2017-10-13",
+                    "area": {
+                        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                        "name": "Netherlands",
+                        "sort-name": "Netherlands",
+                        "iso-3166-1-codes": [
+                            "NL"
+                        ]
+                    }
+                },
+                {
+                    "date": "2017-10-13",
+                    "area": {
+                        "id": "53ccc8be-1551-3e28-965b-7f95465f2093",
+                        "name": "Curaçao",
+                        "sort-name": "Curaçao",
+                        "iso-3166-1-codes": [
+                            "CW"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "190296939891",
+            "label-info": [
+                {
+                    "label": {
+                        "id": "2ebcc683-ba98-4964-a2d8-b11fea9d7de8",
+                        "name": "WM Benelux BV"
+                    }
+                }
+            ],
+            "track-count": 12,
+            "media": [
+                {
+                    "format": "Digital Media",
+                    "disc-count": 0,
+                    "track-count": 12
+                }
+            ]
+        },
+        {
+            "id": "7252c6b4-5b63-4e6c-8731-3a3025400571",
+            "score": 75,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Jackie Sardou chante",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Jackie Sardou",
+                    "artist": {
+                        "id": "16093cc3-22c3-4031-9191-354f11497938",
+                        "name": "Jackie Sardou",
+                        "sort-name": "Sardou, Jackie"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "87a8f616-0148-4418-9aa0-2b9489853057",
+                "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Jackie Sardou chante",
+                "primary-type": "Album"
+            },
+            "date": "1993",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "1993",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "743211754224",
+            "label-info": [
+                {
+                    "catalog-number": "74321175422",
+                    "label": {
+                        "id": "b9cbaa2a-6f71-4372-828a-ad7eecf4fba4",
+                        "name": "AVREP"
+                    }
+                }
+            ],
+            "track-count": 11,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 11
+                }
+            ]
+        },
+        {
+            "id": "36141347-79ff-4a11-b82f-4476ef07dc1c",
+            "score": 75,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Michel Sardou 1",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Michel Sardou",
+                    "artist": {
+                        "id": "dee1a19a-1145-4a47-b009-4bef3c1f445d",
+                        "name": "Michel Sardou",
+                        "sort-name": "Sardou, Michel"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "648b10b9-5f7b-3fc6-9a33-b7b43d342dc7",
+                "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Il était là (Le fauteuil)",
+                "primary-type": "Album"
+            },
+            "date": "1982",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "1982",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "3296637101327",
+            "label-info": [
+                {
+                    "catalog-number": "710132 CB701",
+                    "label": {
+                        "id": "f6b211c2-75ec-4a9e-8395-57c73c83e105",
+                        "name": "Trema"
+                    }
+                }
+            ],
+            "track-count": 8,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 8
+                }
+            ]
+        },
+        {
+            "id": "29ad2644-c969-46b7-b632-6161edb9889e",
+            "score": 75,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 4,
+            "title": "Michel Sardou Anthologie",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Michel Sardou",
+                    "artist": {
+                        "id": "dee1a19a-1145-4a47-b009-4bef3c1f445d",
+                        "name": "Michel Sardou",
+                        "sort-name": "Sardou, Michel"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "bb7bbd3c-2ffe-3a65-a124-4a9ee19d0d64",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Michel Sardou Anthologie",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "2004",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2004",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "602498222003",
+            "asin": "B0002LGWLS",
+            "track-count": 72,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 19
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 18
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 18
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 17
+                }
+            ]
+        },
+        {
+            "id": "22a09abd-aa13-4dd6-ae33-dd0af8bd535a",
+            "score": 75,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Michel Sardou 66",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Michel Sardou",
+                    "artist": {
+                        "id": "dee1a19a-1145-4a47-b009-4bef3c1f445d",
+                        "name": "Michel Sardou",
+                        "sort-name": "Sardou, Michel"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "fb4051d2-7332-4927-9279-fac5ad0ecf89",
+                "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Michel Sardou 66",
+                "primary-type": "Album"
+            },
+            "date": "1989",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "1989",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "label-info": [
+                {
+                    "catalog-number": "310 299",
+                    "label": {
+                        "id": "f6b211c2-75ec-4a9e-8395-57c73c83e105",
+                        "name": "Trema"
+                    }
+                }
+            ],
+            "track-count": 10,
+            "media": [
+                {
+                    "format": "12\" Vinyl",
+                    "disc-count": 0,
+                    "track-count": 10
+                }
+            ]
+        },
+        {
+            "id": "5ed2ed36-913e-4d81-851f-5d03fb9e1998",
+            "score": 75,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 2,
+            "title": "Chante Michel Sardou",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Star Academy 4",
+                    "artist": {
+                        "id": "e2e3b63f-6d1c-4fbe-b7b6-99aa095008c4",
+                        "name": "Star Academy 4",
+                        "sort-name": "Star Academy 4",
+                        "disambiguation": "French reality TV show"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "1677b318-2885-3c3b-b5a9-128a29a526e9",
+                "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Chante Michel Sardou",
+                "primary-type": "Album"
+            },
+            "date": "2004-10",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2004-10",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "602498249376",
+            "asin": "B00069KEQA",
+            "label-info": [
+                {
+                    "label": {
+                        "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+                        "name": "Mercury Records"
+                    }
+                }
+            ],
+            "track-count": 24,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 12
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 12
+                }
+            ]
+        },
+        {
+            "id": "26f3eaf3-09d4-4de8-90a9-9736ae790f60",
+            "score": 75,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "c1668fc7-8944-4a00-bc3e-46e8d861d211",
+            "count": 2,
+            "title": "Chante Michel Sardou",
+            "status": "Official",
+            "packaging": "Box",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Star Academy 4",
+                    "artist": {
+                        "id": "e2e3b63f-6d1c-4fbe-b7b6-99aa095008c4",
+                        "name": "Star Academy 4",
+                        "sort-name": "Star Academy 4",
+                        "disambiguation": "French reality TV show"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "1677b318-2885-3c3b-b5a9-128a29a526e9",
+                "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Chante Michel Sardou",
+                "primary-type": "Album"
+            },
+            "barcode": "602498249376",
+            "label-info": [
+                {
+                    "label": {
+                        "id": "94811618-e46d-4ae0-8f7e-f22ebee586b4",
+                        "name": "Mercury France"
+                    }
+                }
+            ],
+            "track-count": 24,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 12
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 12
+                }
+            ]
+        },
+        {
+            "id": "fbaf683b-d740-40a8-9e2d-a3e3aba86bb2",
+            "score": 67,
+            "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+            "count": 1,
+            "title": "Tu Sardou Michel ?",
+            "status": "Promotion",
+            "text-representation": {
+                "language": "eng",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "The Michel Sardou",
+                    "artist": {
+                        "id": "6402fa51-beef-42ed-bad4-e2065cea7d67",
+                        "name": "The Michel Sardou",
+                        "sort-name": "Michel Sardou, The",
+                        "disambiguation": "grindcore"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "9aff25aa-bc2a-48b1-9c25-9be4da7490a3",
+                "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                "title": "Tu Sardou Michel ?",
+                "primary-type": "EP"
+            },
+            "date": "2002",
+            "country": "XW",
+            "release-events": [
+                {
+                    "date": "2002",
+                    "area": {
+                        "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                        "name": "[Worldwide]",
+                        "sort-name": "[Worldwide]",
+                        "iso-3166-1-codes": [
+                            "XW"
+                        ]
+                    }
+                }
+            ],
+            "track-count": 9,
+            "media": [
+                {
+                    "format": "Digital Media",
+                    "disc-count": 0,
+                    "track-count": 9
+                }
+            ]
+        },
+        {
+            "id": "f119796e-81dc-45ea-b3d7-7519548a0b4e",
+            "score": 61,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Christophe michel chante michel sardou",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Christophe Michel",
+                    "artist": {
+                        "id": "47b27dd0-14b9-4702-9421-3eb0551668f4",
+                        "name": "Christophe Michel",
+                        "sort-name": "Christophe Michel",
+                        "disambiguation": "Imaxx"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "01b791aa-8803-47cb-8e9b-f02b4d8270be",
+                "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Christophe michel chante michel sardou",
+                "primary-type": "Album"
+            },
+            "track-count": 19,
+            "media": [
+                {
+                    "format": "Digital Media",
+                    "disc-count": 0,
+                    "track-count": 19
+                }
+            ]
+        },
+        {
+            "id": "a3047c6c-383a-4f7e-8786-dbfd1f1d8449",
+            "score": 55,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 2,
+            "title": "Les N°1 de Michel Sardou",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Michel Sardou",
+                    "artist": {
+                        "id": "dee1a19a-1145-4a47-b009-4bef3c1f445d",
+                        "name": "Michel Sardou",
+                        "sort-name": "Sardou, Michel"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "47ba7a76-2437-4be4-8fe2-9ee28db6a825",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Les N°1 de Michel Sardou",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "2009",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2009",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "600753211649",
+            "asin": "B002IYLE6K",
+            "label-info": [
+                {
+                    "label": {
+                        "id": "0f4f12c8-3a50-43e3-8f27-dfd10fb2f27e",
+                        "name": "AZ"
+                    }
+                }
+            ],
+            "track-count": 37,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 20
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 17
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "pop"
+                }
+            ]
+        },
+        {
+            "id": "7748b8db-6b28-4d9b-b7cc-7b1259e5b98c",
+            "score": 55,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+            "count": 1,
+            "title": "Hommage : Ils chantent Michel Sardou",
+            "status": "Official",
+            "packaging": "Jewel Case",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Various Artists",
+                    "artist": {
+                        "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                        "name": "Various Artists",
+                        "sort-name": "Various Artists",
+                        "disambiguation": "add compilations to this artist"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "4275b8b0-f700-4715-ab39-6d8f7a5067a5",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Hommage : Ils chantent Michel Sardou",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "1998",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "1998",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "",
+            "label-info": [
+                {
+                    "catalog-number": "6227 302",
+                    "label": {
+                        "id": "3580e120-f9a2-406c-81e1-42f786ee0d2d",
+                        "name": "Éditions Atlas"
+                    }
+                }
+            ],
+            "track-count": 12,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 12
+                }
+            ]
+        },
+        {
+            "id": "a7c394d1-fce6-4b21-92be-e7ab8104dfd7",
+            "score": 37,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+            "count": 2,
+            "title": "Nostalgie",
+            "status": "Official",
+            "packaging": "Jewel Case",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Michel Sardou",
+                    "artist": {
+                        "id": "dee1a19a-1145-4a47-b009-4bef3c1f445d",
+                        "name": "Michel Sardou",
+                        "sort-name": "Sardou, Michel"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "67c0040d-bab4-414b-8475-236d6b4201be",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Nostalgie",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "2014-10-06",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2014-10-06",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "602537878307",
+            "asin": "B00KQW90MG",
+            "label-info": [
+                {
+                    "catalog-number": "378 783-0",
+                    "label": {
+                        "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+                        "name": "Mercury Records"
+                    }
+                }
+            ],
+            "track-count": 35,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 17
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 18
+                }
+            ]
+        }
+    ]
+}
